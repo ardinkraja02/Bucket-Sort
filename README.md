@@ -1,1 +1,1 @@
-Will update soon
+This is an old project that taught me how to create a bucket sort algorithm. Bucket sort will sort items in buckets, so for example, if you were sorting in alphabetical order, a word that started with the letter A would go into the "A" bucket. If multiple words were in a bucket, they were sorted within the bucket, and would be printed in order, as this is an older project there will more updates to add comments and make the code prettier.
